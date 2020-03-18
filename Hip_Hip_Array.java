@@ -1,10 +1,11 @@
-###You will be given an array of 'n' numbers. 
+/*You will be given an array of 'n' numbers. 
 Your task is to first reverse the array (first number becomes last, 2nd number becomes 2nd from the last and so on) 
-and then print the sum of the numbers at even indices and print the product of the numbers at odd indices.
+and then print the sum of the numbers at even indices and print the product of the numbers at odd indices.*/
 
 import java.util.Scanner;
 
-class Array1{
+class Array1
+{
 
     public static void main(String args[])
     {
