@@ -1,7 +1,7 @@
 //Find factorial of a given number where n!=n*n-1*n-2.....*1
 
 import java.util.Scanner;
-class Main
+class Factorial
 {
     public static void main(String[] args) 
     {
