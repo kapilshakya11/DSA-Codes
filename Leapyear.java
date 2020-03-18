@@ -3,7 +3,7 @@ Leap year is the year that is multiple of 4. But, multiples of 100
 which are not multiples of 400 are not leap years.*/
 
 import java.util.Scanner;
-class Main 
+class Leap_Year
 {       
     public static void main(String[] args)  
     { 
